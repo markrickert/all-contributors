@@ -4,7 +4,7 @@ title: CLI Usage
 sidebar_label: Usage
 ---
 
-> This usage documentation assumes you have already followed the [cli installation steps](installation).
+> This usage documentation assumes you have already followed the [cli installation steps](installation.md).
 
 A quick note: Below we'll just show `all-contributors` to keep things simple, but if you're having any difficulties, then give the `yarn all-contributors` route a try 😺
 
